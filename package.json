@@ -1,0 +1,23 @@
+{
+  "name": "tetrisminitry",
+  "version": "1.0.0",
+  "description": "trynna to make useful code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esylive/tetrisMinitry.git"
+  },
+  "dependencies": {
+    "last-tea-chance": "1.0.0",
+    "": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esylive/tetrisMinitry/issues"
+  },
+  "homepage": "https://github.com/esylive/tetrisMinitry#readme"
+}
