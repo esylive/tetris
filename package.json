@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "last-tea-chance": "1.0.0",
-    "": "0.1.4"
+    "prod2dice": "1.0.0"
   },
   "author": "",
   "license": "ISC",
