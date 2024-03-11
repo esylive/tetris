@@ -1,2 +1,2 @@
-# tetris-esyli
+# tetris
 trynna to make useful code
